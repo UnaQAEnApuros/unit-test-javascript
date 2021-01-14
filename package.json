@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-javascript",
+  "version": "1.0.0",
+  "description": "Example of a simple project with unit test using JavaScript",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estefafdez/unit-test-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estefafdez/unit-test-javascript/issues"
+  },
+  "homepage": "https://github.com/estefafdez/unit-test-javascript#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
